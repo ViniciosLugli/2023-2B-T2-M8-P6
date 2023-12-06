@@ -37,8 +37,6 @@ Additionally, the code includes a test class `TestMNISTClassifier` within which 
 The `MNISTClassifier` class utilizes TensorFlow and Keras to define, compile, and train a Convolutional Neural Network for digit classification on the MNIST dataset. The architecture consists of a convolutional layer, max-pooling layer, flattening layer, and dense layers.
 
 ### Notes
-
--   The model is saved as `mnist_model.h5` after training.
 -   The test accuracy is checked to ensure it is greater than 95%.
 -   Predictions for sample images are displayed using Matplotlib.
 
