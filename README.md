@@ -43,3 +43,4 @@ The `MNISTClassifier` class utilizes TensorFlow and Keras to define, compile, an
 -   Predictions for sample images are displayed using Matplotlib.
 
 ## Demo
+[demo](https://github.com/ViniciosLugli/2023-2B-T2-M8-P6/assets/40807526/a54bb31a-5ab2-4a76-842c-80e8cbd9f881)
